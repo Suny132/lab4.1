@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<catalog>
+    <book id="1">
+        <title>Harry Potter and the Philosopher's Stone</title>
+        <author>Joanne Rowling</author>
+        <price>29.99</price>
+    </book>
+    <book id="2">
+        <title>3 Body Problem</title>
+        <author>Cixin Liu</author>
+        <price>59.99</price>
+    </book>
+</catalog>
